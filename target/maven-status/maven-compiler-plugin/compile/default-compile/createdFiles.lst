@@ -1,0 +1,5 @@
+com\example\service\InventoryServiceImpl.class
+com\example\service\InventoryService.class
+com\example\util\DBConnectionUtil.class
+com\example\entity\Inventory.class
+com\example\MainModule.class
